@@ -1,4 +1,5 @@
 # Kyunghee University Bachelor's Thesis
+2021103746 Habin LIM
 
 ## Towards Robust Multi-Concept Personalization for Text-to-Image Diffusion Models
 
@@ -56,3 +57,9 @@ conda env create -f environment.yml
 
 ## Inference
 See the RMP_inference.ipynb
+
+# Thanks To
+
+This Project was inspired by and built upon the following resources:
+- https://github.com/yuval-alaluf/Attend-and-Excite 
+- https://github.com/huggingface/diffusers
